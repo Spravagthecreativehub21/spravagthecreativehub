@@ -1,0 +1,24 @@
+#Background{
+	height: 650px;
+	background-image: linear-gradient(to bottom, #e953cf, #e048d0, #d63ed1, #cc34d3, #c029d5, #a948e7,
+	 #8d5df5, #6c6dff, #228dff, #00a7ff, #1dbbfd, #67ccf0);
+}
+h1{
+	font: 35Px Arial, serif; 
+	color: white;
+	text-decoration: underline;
+	text-align:center;
+	margin-left: 90px;
+	width: 420px;
+	height: 505px;
+	margin-top: 10px;
+
+}
+h3{
+	margin-left: 20px;
+	margin-top: 25px;
+	width: 420px;
+	height: 505px;
+}
+pre{
+	margin-top:5px;
