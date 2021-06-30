@@ -1,0 +1,23 @@
+#Background{
+	height: 650px;
+	background-image:linear-gradient(to bottom, #08eaf4, #00f4d2, #60f89d, #acf75d, #f6ec06);
+	}
+h1{
+	font: 35Px Arial, serif; 
+	color: blue; 
+	text-decoration: underline;
+	text-align:center;
+	margin-left: 90px;
+	width: 420px;
+	height: 505px;
+	margin-top: 10px;
+
+}
+h3{
+	margin-left: 20px;
+	margin-top: 25px;
+	width: 420px;
+	height: 505px;
+}
+pre{
+	margin-top:5px;
